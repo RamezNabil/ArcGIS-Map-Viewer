@@ -9,7 +9,7 @@ A GUI map viewer with the following features:
 * Adding a new layer from the geodatabase or Removing an existing layer from the map.
 * Navigating through the map with Zoom in, Zoom Out and Full Extent.
 * Making a defintion query on the selected layer.
-* The current location (x and y coordinate) appear on the status bar while moving around the map.
+* The current location (x and y coordinate) appears on the status bar while moving around the map.
 * Selecting features from different layers based on a where clause (Attribute Query).
 * Fields of the selected layers are displayed, and the unique values of the selected field are displayed as well.
 * A query builder that helps the user to write the where clause easily.
