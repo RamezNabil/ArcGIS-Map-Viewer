@@ -1,0 +1,9 @@
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.Form1.resources
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.Properties.Resources.resources
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.exe
+C:\Users\GIS\Documents\Visual Studio 2010\Projects\Task1\Task1\obj\x86\Debug\Task1.pdb
